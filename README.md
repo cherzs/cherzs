@@ -1,9 +1,9 @@
 # Halo semua! 
 ini hanya template, Jangan percaya\
-Perkenalkan nama saya **Ghaly**.\
+Perkenalkan nama saya **Ghaly**.
 
 Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/zhafran_ghaly)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/zhafran_ghaly).
  
 <p align="left">
 <a href="https://github.com/cherzs">

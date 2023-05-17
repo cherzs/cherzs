@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cherzs&label=Profile%20views&color=0e75b6&style=flat" alt="cherzs" /> </p>
 # Halo semua! 
 ini hanya template, Jangan percaya\
 Perkenalkan nama saya **Ghaly**.\
@@ -12,3 +11,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](htt
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cherzs&label=Profile%20views&color=0e75b6&style=flat" alt="cherzs" /> </p>

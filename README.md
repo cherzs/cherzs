@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cherzs&label=Profile%20views&color=0e75b6&style=flat" alt="cherzs" /> </p>
 # Halo semua! 
 ini hanya template, Jangan percaya\
 Perkenalkan nama saya **Ghaly**.\

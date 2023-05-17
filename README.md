@@ -1,7 +1,7 @@
 # Halo semua! 
-Perkenalkan nama saya **Ghaly**.\
+Perkenalkan nama saya **Ghaly**.
 
-Jika kamu tertarik untuk diskusi, silakan hubungi saya di akun [LinkedIn](https://www.linkedin.com/in/muhammad-zhafran-ghaly-383940214/).
+Jika kamu tertarik untuk diskusi, silakan hubungi saya di akun [LinkedIn](https://www.linkedin.com/in/muhammad-zhafran-ghaly-383940214/)ku.
  
 <p align="left">
 <a href="https://github.com/cherzs">

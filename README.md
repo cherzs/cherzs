@@ -1,7 +1,7 @@
 # Halo semua! 
-Perkenalkan nama saya **Ghaly**.
+Hey buddy, I am a data analyst and a data scientist. I have less than 1 year of experience.
 
-Jika kamu tertarik untuk diskusi, silakan hubungi saya di akun [LinkedIn](https://www.linkedin.com/in/muhammad-zhafran-ghaly-383940214/)ku.
+If you are interested in a discussion, please contact me at [LinkedIn](https://www.linkedin.com/in/muhammad-zhafran-ghaly-383940214/)ku.
  
 <p align="left">
 <a href="https://github.com/cherzs">

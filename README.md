@@ -1,5 +1,5 @@
-# Halo semua! 
-Hey buddy, I am a data analyst and a data scientist. I have less than 1 year of experience.
+# Hello Tech Dude! 
+I am a data analyst and a data scientist. I have less than 1 year of experience.
 
 If you are interested in a discussion, please contact me at my [LinkedIn](https://www.linkedin.com/in/muhammad-zhafran-ghaly-383940214/).
  

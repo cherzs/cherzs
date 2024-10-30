@@ -23,7 +23,7 @@ Connect with me and let's discuss all things tech, data, and development:
 ---
 
 💼 **What I Do:**
-- 🧠 **Data Analysis**: Uncovering patterns and insights from data.
+- 🧠 **Data Sciebtist**: Uncovering patterns and insights from data.
 - 📊 **Machine Learning**: Building predictive models to solve real-world problems.
 - ⚙️ **Odoo Development**: Creating custom modules and optimizing business workflows.
 

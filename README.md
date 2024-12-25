@@ -1,6 +1,6 @@
 # Hello, Tech Enthusiasts! 👋
 
-I'm **Muhammad Zhafran Ghaly**, a passionate **Data Analyst**, **Data Scientist**, and **Odoo Developer**. 🚀 With less than a year of experience, I've been diving deep into **data analysis**, **machine learning**, and **Odoo development**, where I specialize in crafting custom Odoo modules and tackling complex configurations.
+I'm **Muhammad Zhafran Ghaly**, a passionate **Data Analyst**, **Data Scientist**, and **Odoo Developer**. 🚀 With 3 year of experience, I've been diving deep into **data analysis**, **machine learning**, and almost a year of **Odoo development**, where I specialize in crafting custom Odoo modules and tackling complex configurations.
 
 💡 I thrive on turning data into actionable insights and building solutions that drive efficiency and innovation. From enhancing business processes with **Odoo** to leveraging data for impactful decisions, I aim to make a difference wherever I can.
 

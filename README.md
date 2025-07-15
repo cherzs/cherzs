@@ -18,50 +18,77 @@ My passion lies at the intersection of machine learning and enterprise resource 
 ---
 
 ### 💻 Tech Stack
+<p align="center">
+  <a href="https://github.com/cherzs">
+    <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00B88B&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Zhafran+Ghaly;A+Data+Scientist;An+Odoo+Developer;Building+Data-Driven+Solutions." alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="odoo"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-  </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<p align="center">
+  I engineer data-driven solutions by fusing <strong>Machine Learning</strong> with <strong>Odoo's</strong> powerful business framework. My focus is on creating intelligent, automated systems that drive real-world efficiency and growth.
+</p>
+
+---
+
+### // Core Focus
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">Data Science & ML</h3>
+      <p align="center">
+        › Building predictive ML models<br>
+        › Engineering data pipelines<br>
+        › Uncovering actionable insights
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">Odoo Development</h3>
+      <p align="center">
+        › Architecting custom Odoo modules<br>
+        › Automating business workflows<br>
+        › Integrating systems via API
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### // Tech Arsenal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,postgres,odoo,git,docker,gcp" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### // GitHub Activity
 
 <p align="center">
   <a href="https://github.com/cherzs">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cherzs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cherzs&layout=compact&langs_count=8&theme=algolia"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cherzs&theme=react-dark&bg_color=1A1B27&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=cherzs&label=Profile%20views&color=0e75b6&style=flat" alt="cherzs"/>
+<p align="center">
+  <a href="https://github.com/cherzs">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cherzs&show_icons=true&theme=react&bg_color=1A1B27&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cherzs&layout=compact&langs_count=8&theme=react&bg_color=1A1B27&hide_border=true"/>
+  </a>
 </p>
 
 ---
 
-### 📫 Connect with Me
+### // Find Me On
 
-I'm always open to discussing new projects, innovative ideas, or collaboration opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-zhafran-ghaly-383940214/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/cherzs)
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-zhafran-ghaly-383940214/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/cherzs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>

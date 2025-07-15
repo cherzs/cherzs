@@ -1,27 +1,49 @@
-# Hello, Tech Enthusiasts! 👋  
+### Hello, I'm Muhammad Zhafran Ghaly! 👋
 
-I'm **Muhammad Zhafran Ghaly**, a passionate **Data Analyst**, **Data Scientist**, and **Odoo Developer**. 🚀  
-With 3 years of experience, I've been diving deep into **data analysis**, **machine learning**, and almost a year of **Odoo development**, where I specialize in crafting custom Odoo modules and tackling complex configurations.  
+I'm a **Data Scientist** and **Odoo Developer** with over 3 years of experience in transforming complex data into actionable insights and building efficient, scalable business solutions.
 
-💡 I thrive on turning data into actionable insights and building solutions that drive efficiency and innovation. From enhancing business processes with **Odoo** to leveraging data for impactful decisions, I aim to make a difference wherever I can.  
-
----
-
-## 🌟 **What I Do:**  
-- 🧠 **Data Scientist**: Uncovering patterns and insights from data.  
-- 📊 **Machine Learning**: Building predictive models to solve real-world problems.  
-- ⚙️ **Odoo Development**: Creating custom modules and optimizing business workflows.  
+My passion lies at the intersection of machine learning and enterprise resource planning, where I leverage data to drive intelligent automation and optimize business workflows. Whether it's developing predictive models or architecting custom Odoo modules, I am dedicated to creating technology that delivers tangible impact.
 
 ---
 
-## 📫 **Let's Connect!**  
-I'm always open to tech discussions, collaborations, and innovative projects. Feel free to reach out:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-zhafran-ghaly-383940214/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/cherzs)  
+### Core Competencies
+
+| Data Science & Machine Learning | Odoo Development |
+| :--- | :--- |
+| 📊 Data Analysis & Visualization | ⚙️ Custom Module Development |
+| 🧠 Predictive Modeling & ML Algorithms | ⛓️ API & Third-Party Integration |
+| 📈 Statistical Analysis | 📈 Workflow Automation & Optimization |
+| 📉 Data Wrangling & Preprocessing | 💻 Backend & Frontend Customization |
 
 ---
 
-## 📊 **GitHub Stats**  
+### 💻 Tech Stack
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+  <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="odoo"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/cherzs">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cherzs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -31,19 +53,15 @@ I'm always open to tech discussions, collaborations, and innovative projects. Fe
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=cherzs&label=Profile%20views&color=0e75b6&style=flat" alt="cherzs"/>
-</p>  
+</p>
 
 ---
 
-## 🔍 **Current Goals:**  
-- 🌱 Expanding my expertise in **machine learning** and **Odoo development**.  
-- 🚀 Collaborating on impactful **data science** projects.  
-- 🤝 Helping businesses optimize workflows with **customized Odoo modules**.  
+### 📫 Connect with Me
+
+I'm always open to discussing new projects, innovative ideas, or collaboration opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-zhafran-ghaly-383940214/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/cherzs)
 
 ---
-
-Feel free to explore my repositories and projects! Let’s innovate together. ✨  
-
---- 
-
-Jika ada penyesuaian atau tambahan, beri tahu saja! 😊

@@ -1,4 +1,8 @@
-### Hello, I'm Muhammad Zhafran Ghaly! 👋
+<p align="center">
+  <a href="https://github.com/cherzs">
+    <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00B88B&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Zhafran+Ghaly;A+Data+Scientist;An+Odoo+Developer;Building+Data-Driven+Solutions." alt="Typing SVG" />
+  </a>
+</p>
 
 I'm a **Data Scientist** and **Odoo Developer** with over 3 years of experience in transforming complex data into actionable insights and building efficient, scalable business solutions.
 
@@ -18,11 +22,13 @@ My passion lies at the intersection of machine learning and enterprise resource 
 ---
 
 ### 💻 Tech Stack
+
 <p align="center">
-  <a href="https://github.com/cherzs">
-    <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00B88B&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Zhafran+Ghaly;A+Data+Scientist;An+Odoo+Developer;Building+Data-Driven+Solutions." alt="Typing SVG" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,postgres,odoo,git,docker,gcp" />
   </a>
 </p>
+
 
 <p align="center">
   I engineer data-driven solutions by fusing <strong>Machine Learning</strong> with <strong>Odoo's</strong> powerful business framework. My focus is on creating intelligent, automated systems that drive real-world efficiency and growth.
